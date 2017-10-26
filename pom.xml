@@ -126,7 +126,7 @@
           <resources>
             <labels>
               <all>
-                <space>test-01</space>
+                <space>Fabric8-Demo</space>
               </all>
             </labels>
           </resources>
